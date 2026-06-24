@@ -8,7 +8,7 @@ clc
 %% HP Spectra
 
 % spectrum = csvread('LGMonitorSpectrum04-Feb-2021 11_10_51.csv');
-spectrum = xlsread('Color_cali_averageing of PR670values.xlsx');
+spectrum = xlsread('OmniStudioX31-2_Gen2_Cal_Spectrum0.xlsx');
 % load('SPD2019JanOct.mat');spectrum = SPD2019JanOct;
 filename = 'Results_LMS2RGB_SurfacePro8_02022023.csv';
 
